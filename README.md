@@ -53,7 +53,7 @@
 
 *Logisolver* is supposed to work on all platforms supported by Python 3.  However, It was tested only on the following operating systems:
 
-* Microsoft Windows 11 Build 22000.282
+* Microsoft Windows 11 Build 22000.282 (Python 3.9)
 
 ![](./img/windows11.png)
 
