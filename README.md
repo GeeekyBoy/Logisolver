@@ -30,7 +30,7 @@
 
 ## Supported Commands
 
-* **DELETE *SET_POINTER*: ** destroys a set defined previously.
+* **DELETE** ***<SET_POINTER>:*** destroys a set defined previously.
 * **LIST:** lists all current defined sets along with their elements and elements count.
 * **CLEAR:** clears the console window by removing commands history.
 * **EXIT:** exits the whole program and return to the system shell.
