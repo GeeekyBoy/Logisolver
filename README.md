@@ -190,6 +190,7 @@ A non initializable class used only as a source of all supported labels without 
 
 * Set elements can't contain opening and closing parentheses.
 * Set elements can be only constrained by single quotes.
+* Elements can contain single quotes but must be preceded by a back slash to be escaped.
 
 ## Credits
 
